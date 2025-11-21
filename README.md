@@ -1,3 +1,5 @@
+A Python data analysis project exploring credit risk behaviors across income, utilization, and customer segments. Includes visualizations, segmentation, and insights used in fintech analytics.
+
 **Credit Risk EDA**
 
 This project analyzes a synthetic credit risk dataset to understand customer financial behavior and identify key drivers of loan default. The analysis explores income, utilization, delinquencies, spending patterns, and customer segments commonly used in fintech and credit underwriting.
